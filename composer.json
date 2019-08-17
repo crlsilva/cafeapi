@@ -3,18 +3,18 @@
   "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
   "keywords": [
     "FSPHP",
-    "UpInside",
-    "Robson V. Leite",
+    "DesignCafé",
+    "Cristiano Silva",
     "SaaS",
     "PHP",
     "Full Stack"
   ],
-  "homepage": "http://www.upinside.com.br",
+  "homepage": "https://www.designcafe.com.br",
   "license": "MIT",
   "authors": [
     {
-      "name": "Robson V. Leite",
-      "email": "cursos@upinside.com.br",
+      "name": "Cristiano Silva",
+      "email": "contato@designcafe.com.br",
       "role": "Developer"
     }
   ],
