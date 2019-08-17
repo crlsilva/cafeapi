@@ -49,7 +49,7 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Me;
+use DesignCafe\CafeApi\Me;
 
 $me = new Me(
     "suaapi.url.com",
@@ -87,7 +87,7 @@ if ($user->error()) {
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Invoices;
+use DesignCafe\CafeApi\Invoices;
 
 $invoices = new Invoices(
     "suaapi.url.com",
@@ -164,8 +164,8 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/crlsilva) (Developer)
-- [UpInside Treinamentos](https://github.com/crlsilva) (Team)
+- [Cristiano Silva](https://github.com/crlsilva) (Developer)
+- [Design Café](https://github.com/crlsilva) (Team)
 - [All Contributors](https://github.com/crlsilva/cafeapi/contributors) (This Rock)
 
 ## License
