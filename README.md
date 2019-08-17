@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.designcafe.com.br)**.
 Uploader is available via Composer:
 
 ```bash
-"crlsilva/cafeapi": "^1.0"
+"designcafe/cafeapi": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require crlsilva/cafeapi
+composer require designcafe/cafeapi
 ```
 
 ## Documentation
